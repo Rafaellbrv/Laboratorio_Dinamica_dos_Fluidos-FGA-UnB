@@ -79,7 +79,7 @@ https://user-images.githubusercontent.com/42424593/44637994-eb1e1b80-a98a-11e8-9
    
 ## 2.3 Dados a serem coletados: ##
 
-   Para tentear comprovar o efeito de Bernoulli, será utilizado o manômetro digital para três medições diferentes:
+   Para tentar comprovar o efeito de Bernoulli, será utilizado o manômetro digital para três medições diferentes:
     
    1)	Pressão na saída do secador (P1);
       
@@ -95,6 +95,7 @@ https://user-images.githubusercontent.com/42424593/44637994-eb1e1b80-a98a-11e8-9
  
   O efeito Bernoulli baseia-se na observação de que com a movimentação do ar, a pressão do mesmo diminui, então, partindo-se desta         ideia, é esperado que a bolinha se mantenha flutuando no fluxo de ar do secador, pois o secador provocará um fluxo de ar com             velocidade maior que o ar da vizinhança (ar ambiente), propiciando uma pressão menor e o ar ascendente será suficiente para manter a     bolinha em suspensão. A bolinha se manterá ao centro deste fluxo, visto que a pressão do ar mais lento, o ar periférico do fluxo, a     forçará a se manter no ponto onde a pressão é menor, ou seja, no centro do fluxo.
   
+
  # 3. Execução: #
   
   ## 3.1 Materiais utilizados: ##
@@ -170,6 +171,8 @@ Foram feitas com o auxílio do anemômetro 3 medições de velocidade, temperatu
 
 A terceira medição de velocidade não houve precisão, tendo valores aleatórios e inconsistentes, sendo assim, não foi coletado dado algum dessa parte. Também é possível observar que nos dados com o ar quente (temperaturas 2 e 3) ocorreu uma certa imprecisão entre a primeira medida e as duas últimas.
 
+
+=======
 # 4. Análise: #
 
 Primeiramente foi tirado a média dos valores definidos nas tabelas acima, então foi realizado uma análise dos motivos das variações de resultado para a mesma temperatura e também a variação dos dados para cada temperatura.
@@ -246,6 +249,7 @@ Agora que temos o valor da força resultante na bola,podemos calcular a pressão
 # 5. Conclusão #
 
 Foi observado que a diferença de pressão na parte em baixo e dos lados da bolinha, e a pressão atmosférica, causa um efeito onde a mesma fica "flutuando" no fluxo de ar podendo constatar o teorema de Bernoulli de acordo com os resultados e as análises apresentados. Também foi possível observar como a temperatura do fluído influencia na velocidade do mesmo.
+
 
 
 
