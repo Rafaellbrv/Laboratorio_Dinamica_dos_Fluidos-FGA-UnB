@@ -68,14 +68,37 @@ o	WHITE, Frank. Mecânica dos Fluidos. 6. ed. São Paulo: AMGH Editora Ltda., 20
 
 ### 3.	Execução: ###
 
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 04/11/2018**, contendo os seguintes tópicos:
+Mudanças no experimento:
 
-- Integrantes do grupo;
-- Divisão de tarefas, conforme descrito na etapa 2. Se houver mudança em relação à etapa 2, uma justificativa deverá ser apresentada;
-- Descrição dos procedimentos realizados, onde deverão ser apresentados:
-  - Fotos do experimento montado;
-  - Descrição de cada procedimento executado e justificativa, se houver diferença com a etapa 2;
-  - Dados medidos;
+A ideia inicial do experimento era comprovar por meio de observação visual o efeito Bernoulli aproximando uma folha de papel A4 ao perfil aerofólio de um avião. Contudo, com a orientação do professor, chegamos a conclusão que conseguiríamos obter dados e resultados mais precisos e efetivos fazendo o experimento baseando-se em um veleiro náutico, ao invés de uma asa de avião. Visto que, com as mudanças realizadas, será possível fazer o cálculo da força de sustentação que o vento gera em uma vela de barco. Sendo assim, qualquer mudança que houver nas etapas (divisão de tarefas, descrição do experimento) são em função dessa circunstância.
+ 
+Divisão de tarefas:
+
+ - Relatório: todos;
+ - Aquisição de materiais: Clara e Juliana;
+ - Montagem: todos;
+ - Roteiro do experimento: todos;
+		
+Houveram algumas mudanças de divisão de tarefas descritas na etapa 2, principalmente pela mudança de objetivo do experimento. A aquisição de materiais teve que ser feita pela aluna Clara, visto que a aluna Juliana teve problemas relativos à mudança de endereço;
+ 
+ Descrição dos procedimentos realizados:
+
+-Fotos do experimento montado:
+
+https://user-images.githubusercontent.com/31633085/48320431-6b0a6800-e601-11e8-9488-ec081a32aa2f.png
+
+-Descrição de cada procedimento executado:
+
+   1°) Foi colocado um transferidor no chão paralelo ao anemômetro e encostado nesse;
+   
+   2°) Mediu-se a velocidade do vento em 7 ângulos diferentes (nessa parte, o anemômetro funcionava como funcionaria a vela do veleiro), sendo 0° (paralelo ao anemômetro), 15°, 30°, 45°, 60°, 75° e 90° (perpendicular ao aparelho).
+
+Dados medidos:
+
+https://user-images.githubusercontent.com/31633085/48320488-e8ce7380-e601-11e8-9fc1-1855a81520d6.png
+
+
+
 
 
 ### 4.	Análise e conclusão: ###
